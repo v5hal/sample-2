@@ -1,0 +1,41 @@
+body{
+    background-color:lightsalmon;
+}
+
+.heading{
+    background-color: lightslategray;
+  text-align: center;
+  width: 100%;
+  padding: 0%;
+  margin: 0%;
+ 
+ 
+
+
+}
+h4{
+    margin-left:5px;
+
+}
+
+
+.tabel1,.tabel2,.tabel3,.tabel4,.tabel5{
+    background-color:rgb(194, 176, 222) ;
+    color: white;
+}
+.tabel1{
+    margin: 10px;
+    width: 50%;
+}
+.tabel2{
+    margin: 10px;
+}
+.tabel3{
+    margin: 10px;
+}
+.tabel4{
+    margin: 10px;
+}
+.tabel5{
+    margin: 10px;
+}
